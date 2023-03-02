@@ -1,0 +1,15 @@
+"articoli": [
+  { 
+    "id" : 1,
+    "titolo" : "google",
+    "url" : "google.com",
+    "like" : 23
+  },
+    { 
+    "id" : 1,
+    "titolo" : "reddit",
+    "url" : "reddit.com",
+    "like" : 2
+  }
+
+]
